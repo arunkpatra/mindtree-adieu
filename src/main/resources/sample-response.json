@@ -1,0 +1,36 @@
+{
+  "status" : "Ex-Mindtree",
+  "name" : "Arun K Patra",
+  "location" : "Planet Earth, Milky Way Galaxy",
+  "frequently_visited_location" : "Bangalore, India",
+  "contact_methods" : [
+    {
+      "method" : "email",
+      "handle" : "arunkpatra@gmail.com"
+    },
+    {
+      "method" : "cellular",
+      "handle" : "+91-9611385678"
+    },
+    {
+      "method" : "linkedin",
+      "handle" : "https://www.linkedin.com/in/arunkpatra/"
+    }
+  ],
+  "mindtree_memories" : {
+    "best_team" : "Central Architecture Group",
+    "most_productive_days" : "IoT CoE",
+    "most_respected_leader" : "Madhusudhan KM",
+    "most_cherished_moment" : "Numerous. CAG team hangouts",
+    "most_inspiring_mindtree_mind" : "Gurpreet Kaur Bagga",
+    "most_loved_boss" : "Srinivas Rao Bhagavatula (Bassy)",
+    "funniest_team_mate" : "Jithendra S Jayasimha",
+    "most_loved_projects" : "Emirates PSS, Connected Traveler, IoT Ref Arch.",
+    "most_loved_client" : "Emirates",
+    "moment_worth_dying_for" : "My friend, colleague and mentee Tejas Venugopal, fixing a bug I could not fix for two days",
+    "the_picture_mindtree_will_bring_back_to_mind" : "Of fun, friends, and real honest people",
+    "one_thing_i_would_have_loved_to_do" : "Being more human",
+    "regrets" : "None"
+  },
+  "lwt_message" : "So Long... And thank you for all the love..."
+}
